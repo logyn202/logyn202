@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Logyn Medhat</h1>
 <h3 align="center">A passionate Artificial Intelligence Student. Interested in Data Analysis, Data Science, Machine Learning, Deep Learning.</h3>
-<img align="right" alt="Coding" width="400" src=https://tenor.com/view/cat-computer-laptop-side-eye-mad-cat-gif-25372896>
+<img align="right" alt="Coding" width="400" src=[https://tenor.com/view/cat-computer-laptop-side-eye-mad-cat-gif-25372896](https://tenor.com/view/cat-computer-laptop-side-eye-mad-cat-gif-25372896)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logyn202&label=Profile%20views&color=0e75b6&style=flat" alt="logyn202" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning , Tensorflow, Data Analysis Tools**
